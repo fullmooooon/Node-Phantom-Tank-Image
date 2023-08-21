@@ -1,12 +1,12 @@
 {
-  "name": "hytk",
+  "name": "nodephantomtankimage",
   "version": "1.0.0",
   "description": "",
   "main": "test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "author": "",
+  "author": "lathesky",
   "license": "ISC",
   "dependencies": {
     "sharp": "^0.29.2"
